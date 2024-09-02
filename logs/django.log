@@ -1,0 +1,689 @@
+INFO 2024-07-03 08:47:12,128 autoreload Watching for file changes with StatReloader
+INFO 2024-07-03 08:47:30,196 autoreload Watching for file changes with StatReloader
+INFO 2024-07-03 08:56:14,553 autoreload Watching for file changes with StatReloader
+INFO 2024-07-03 08:58:29,291 basehttp "POST /api/token/ HTTP/1.1" 200 483
+INFO 2024-07-03 09:00:26,519 basehttp "POST /api/token/refresh/ HTTP/1.1" 200 241
+INFO 2024-07-03 09:02:31,174 autoreload /Users/yannischappetjuan/Desktop/Happy_Nation/HPN ticket/web_page/backend/backend/urls.py changed, reloading.
+INFO 2024-07-03 09:02:31,478 autoreload Watching for file changes with StatReloader
+INFO 2024-07-03 09:02:44,069 autoreload /Users/yannischappetjuan/Desktop/Happy_Nation/HPN ticket/web_page/backend/api/urls.py changed, reloading.
+INFO 2024-07-03 09:02:44,315 autoreload Watching for file changes with StatReloader
+INFO 2024-07-03 09:03:00,022 autoreload /Users/yannischappetjuan/Desktop/Happy_Nation/HPN ticket/web_page/backend/api/urls.py changed, reloading.
+INFO 2024-07-03 09:03:00,256 autoreload Watching for file changes with StatReloader
+INFO 2024-07-03 09:03:06,287 basehttp "POST /api/token/refresh/ HTTP/1.1" 200 241
+INFO 2024-07-03 09:03:07,501 basehttp "POST /api/token/refresh/ HTTP/1.1" 200 241
+INFO 2024-07-03 09:03:08,121 basehttp "POST /api/token/refresh/ HTTP/1.1" 200 241
+INFO 2024-07-03 09:03:08,695 basehttp "POST /api/token/refresh/ HTTP/1.1" 200 241
+INFO 2024-07-03 09:03:09,299 basehttp "POST /api/token/refresh/ HTTP/1.1" 200 241
+INFO 2024-07-03 09:03:16,345 basehttp "POST /api/token/refresh/ HTTP/1.1" 200 241
+INFO 2024-07-03 09:03:16,713 basehttp "POST /api/token/refresh/ HTTP/1.1" 200 241
+INFO 2024-07-03 09:03:17,171 basehttp "POST /api/token/refresh/ HTTP/1.1" 200 241
+INFO 2024-07-03 09:03:17,826 basehttp "POST /api/token/refresh/ HTTP/1.1" 200 241
+INFO 2024-07-03 09:03:18,056 basehttp "POST /api/token/refresh/ HTTP/1.1" 200 241
+INFO 2024-07-03 09:03:18,759 basehttp "POST /api/token/refresh/ HTTP/1.1" 200 241
+INFO 2024-07-03 09:03:19,238 basehttp "POST /api/token/refresh/ HTTP/1.1" 200 241
+INFO 2024-07-03 09:03:19,483 basehttp "POST /api/token/refresh/ HTTP/1.1" 200 241
+INFO 2024-07-03 09:03:19,707 basehttp "POST /api/token/refresh/ HTTP/1.1" 200 241
+INFO 2024-07-03 09:03:19,925 basehttp "POST /api/token/refresh/ HTTP/1.1" 200 241
+INFO 2024-07-03 09:03:20,160 basehttp "POST /api/token/refresh/ HTTP/1.1" 200 241
+INFO 2024-07-03 09:03:20,406 basehttp "POST /api/token/refresh/ HTTP/1.1" 200 241
+INFO 2024-07-03 09:03:20,685 basehttp "POST /api/token/refresh/ HTTP/1.1" 200 241
+INFO 2024-07-03 09:03:20,923 basehttp "POST /api/token/refresh/ HTTP/1.1" 200 241
+INFO 2024-07-03 09:03:21,462 basehttp "POST /api/token/refresh/ HTTP/1.1" 200 241
+INFO 2024-07-03 09:33:21,896 basehttp "POST /api/token/ HTTP/1.1" 200 483
+INFO 2024-07-03 09:34:58,370 basehttp "POST /api/token/ HTTP/1.1" 200 483
+INFO 2024-07-03 09:34:58,395 basehttp "GET /api/display-ticket/1/ HTTP/1.1" 200 338
+INFO 2024-07-03 09:34:58,399 basehttp "GET /api/display-ticket/1/ HTTP/1.1" 200 338
+INFO 2024-07-03 09:34:58,429 basehttp "GET /media/tickets_back/1.png HTTP/1.1" 304 0
+INFO 2024-07-03 09:34:58,429 basehttp "GET /media/tickets_front/1.png HTTP/1.1" 304 0
+INFO 2024-07-03 10:47:38,989 autoreload /Users/yannischappetjuan/Desktop/Happy_Nation/HPN ticket/web_page/backend/api/models.py changed, reloading.
+INFO 2024-07-03 10:47:39,359 autoreload Watching for file changes with StatReloader
+INFO 2024-07-03 10:49:34,960 autoreload /Users/yannischappetjuan/Desktop/Happy_Nation/HPN ticket/web_page/backend/api/serializers.py changed, reloading.
+INFO 2024-07-03 10:49:35,179 autoreload Watching for file changes with StatReloader
+INFO 2024-07-03 10:49:54,276 autoreload /Users/yannischappetjuan/Desktop/Happy_Nation/HPN ticket/web_page/backend/api/serializers.py changed, reloading.
+INFO 2024-07-03 10:49:54,517 autoreload Watching for file changes with StatReloader
+INFO 2024-07-03 10:50:33,080 autoreload /Users/yannischappetjuan/Desktop/Happy_Nation/HPN ticket/web_page/backend/api/urls.py changed, reloading.
+INFO 2024-07-03 10:50:33,303 autoreload Watching for file changes with StatReloader
+INFO 2024-07-03 10:50:41,728 autoreload /Users/yannischappetjuan/Desktop/Happy_Nation/HPN ticket/web_page/backend/api/urls.py changed, reloading.
+INFO 2024-07-03 10:50:41,963 autoreload Watching for file changes with StatReloader
+INFO 2024-07-03 10:51:47,494 autoreload /Users/yannischappetjuan/Desktop/Happy_Nation/HPN ticket/web_page/backend/api/views.py changed, reloading.
+INFO 2024-07-03 10:51:47,733 autoreload Watching for file changes with StatReloader
+INFO 2024-07-03 10:51:52,961 autoreload /Users/yannischappetjuan/Desktop/Happy_Nation/HPN ticket/web_page/backend/api/views.py changed, reloading.
+INFO 2024-07-03 10:51:53,147 autoreload Watching for file changes with StatReloader
+INFO 2024-07-03 10:52:07,709 autoreload /Users/yannischappetjuan/Desktop/Happy_Nation/HPN ticket/web_page/backend/api/views.py changed, reloading.
+INFO 2024-07-03 10:52:07,932 autoreload Watching for file changes with StatReloader
+INFO 2024-07-03 10:54:10,379 autoreload /Users/yannischappetjuan/Desktop/Happy_Nation/HPN ticket/web_page/backend/api/views.py changed, reloading.
+INFO 2024-07-03 10:54:10,573 autoreload Watching for file changes with StatReloader
+INFO 2024-07-03 10:55:18,097 autoreload /Users/yannischappetjuan/Desktop/Happy_Nation/HPN ticket/web_page/backend/api/views.py changed, reloading.
+INFO 2024-07-03 10:55:18,310 autoreload Watching for file changes with StatReloader
+INFO 2024-07-03 10:56:08,230 autoreload /Users/yannischappetjuan/Desktop/Happy_Nation/HPN ticket/web_page/backend/api/views.py changed, reloading.
+INFO 2024-07-03 10:56:08,454 autoreload Watching for file changes with StatReloader
+INFO 2024-07-03 10:56:13,690 autoreload /Users/yannischappetjuan/Desktop/Happy_Nation/HPN ticket/web_page/backend/api/views.py changed, reloading.
+INFO 2024-07-03 10:56:13,901 autoreload Watching for file changes with StatReloader
+INFO 2024-07-03 10:56:32,645 autoreload /Users/yannischappetjuan/Desktop/Happy_Nation/HPN ticket/web_page/backend/api/views.py changed, reloading.
+INFO 2024-07-03 10:56:32,869 autoreload Watching for file changes with StatReloader
+INFO 2024-07-03 10:56:37,073 autoreload /Users/yannischappetjuan/Desktop/Happy_Nation/HPN ticket/web_page/backend/api/views.py changed, reloading.
+INFO 2024-07-03 10:56:37,302 autoreload Watching for file changes with StatReloader
+INFO 2024-07-03 10:56:44,591 autoreload /Users/yannischappetjuan/Desktop/Happy_Nation/HPN ticket/web_page/backend/api/views.py changed, reloading.
+INFO 2024-07-03 10:56:44,797 autoreload Watching for file changes with StatReloader
+INFO 2024-07-03 10:57:53,274 autoreload /Users/yannischappetjuan/Desktop/Happy_Nation/HPN ticket/web_page/backend/api/views.py changed, reloading.
+INFO 2024-07-03 10:57:53,494 autoreload Watching for file changes with StatReloader
+INFO 2024-07-03 10:58:11,277 autoreload /Users/yannischappetjuan/Desktop/Happy_Nation/HPN ticket/web_page/backend/api/urls.py changed, reloading.
+INFO 2024-07-03 10:58:11,508 autoreload Watching for file changes with StatReloader
+INFO 2024-07-03 10:58:17,879 autoreload /Users/yannischappetjuan/Desktop/Happy_Nation/HPN ticket/web_page/backend/api/urls.py changed, reloading.
+INFO 2024-07-03 10:58:18,109 autoreload Watching for file changes with StatReloader
+INFO 2024-07-03 10:58:43,084 autoreload /Users/yannischappetjuan/Desktop/Happy_Nation/HPN ticket/web_page/backend/api/urls.py changed, reloading.
+INFO 2024-07-03 10:58:43,318 autoreload Watching for file changes with StatReloader
+INFO 2024-07-03 10:58:45,516 autoreload /Users/yannischappetjuan/Desktop/Happy_Nation/HPN ticket/web_page/backend/api/urls.py changed, reloading.
+INFO 2024-07-03 10:58:45,742 autoreload Watching for file changes with StatReloader
+INFO 2024-07-03 10:59:34,809 autoreload Watching for file changes with StatReloader
+INFO 2024-07-03 10:59:40,821 basehttp "GET /admin/api/ticket/1/change/ HTTP/1.1" 200 11592
+INFO 2024-07-03 10:59:40,853 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+WARNING 2024-07-03 10:59:40,885 log Not Found: /favicon.ico
+WARNING 2024-07-03 10:59:40,885 basehttp "GET /favicon.ico HTTP/1.1" 404 2449
+INFO 2024-07-03 10:59:40,885 basehttp - Broken pipe from ('127.0.0.1', 51876)
+INFO 2024-07-03 10:59:46,733 basehttp "GET /admin HTTP/1.1" 301 0
+INFO 2024-07-03 10:59:46,757 basehttp "GET /admin/ HTTP/1.1" 200 7982
+INFO 2024-07-03 11:00:35,184 autoreload /Users/yannischappetjuan/Desktop/Happy_Nation/HPN ticket/web_page/backend/api/admin.py changed, reloading.
+INFO 2024-07-03 11:00:35,401 autoreload Watching for file changes with StatReloader
+INFO 2024-07-03 11:00:40,632 autoreload /Users/yannischappetjuan/Desktop/Happy_Nation/HPN ticket/web_page/backend/api/admin.py changed, reloading.
+INFO 2024-07-03 11:00:40,852 autoreload Watching for file changes with StatReloader
+INFO 2024-07-03 11:00:43,722 basehttp "GET /admin/ HTTP/1.1" 200 8378
+WARNING 2024-07-03 11:00:43,753 log Not Found: /favicon.ico
+WARNING 2024-07-03 11:00:43,753 basehttp "GET /favicon.ico HTTP/1.1" 404 2449
+INFO 2024-07-03 11:00:43,753 basehttp - Broken pipe from ('127.0.0.1', 51886)
+INFO 2024-07-03 11:00:45,754 basehttp "GET /admin/api/faq/ HTTP/1.1" 200 7923
+INFO 2024-07-03 11:00:45,786 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2024-07-03 11:00:45,790 basehttp "GET /static/admin/js/filters.js HTTP/1.1" 200 978
+INFO 2024-07-03 11:00:45,790 basehttp - Broken pipe from ('127.0.0.1', 51887)
+INFO 2024-07-03 11:00:50,378 basehttp "GET /admin/api/faq/add/ HTTP/1.1" 200 9964
+INFO 2024-07-03 11:00:50,414 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2024-07-03 11:58:51,909 autoreload /Users/yannischappetjuan/Desktop/Happy_Nation/HPN ticket/web_page/backend/api/admin.py changed, reloading.
+INFO 2024-07-03 11:58:52,277 autoreload Watching for file changes with StatReloader
+WARNING 2024-07-03 12:02:07,985 log Unauthorized: /api/display-ticket/1/
+WARNING 2024-07-03 12:02:07,986 basehttp "GET /api/display-ticket/1/ HTTP/1.1" 401 183
+WARNING 2024-07-03 12:02:07,992 log Unauthorized: /api/display-ticket/1/
+WARNING 2024-07-03 12:02:07,992 basehttp "GET /api/display-ticket/1/ HTTP/1.1" 401 183
+INFO 2024-07-03 12:02:07,999 basehttp "POST /api/token/refresh/ HTTP/1.1" 200 241
+INFO 2024-07-03 12:02:08,000 basehttp "POST /api/token/refresh/ HTTP/1.1" 200 241
+INFO 2024-07-03 12:02:08,015 basehttp "GET /api/display-ticket/1/ HTTP/1.1" 200 338
+INFO 2024-07-03 12:02:08,015 basehttp "GET /api/display-ticket/1/ HTTP/1.1" 200 338
+INFO 2024-07-03 12:03:44,725 basehttp "GET /api/display-ticket/1/ HTTP/1.1" 200 338
+INFO 2024-07-03 12:05:22,433 autoreload /Users/yannischappetjuan/Desktop/Happy_Nation/HPN ticket/web_page/backend/api/urls.py changed, reloading.
+INFO 2024-07-03 12:05:22,661 autoreload Watching for file changes with StatReloader
+INFO 2024-07-03 12:05:51,914 autoreload /Users/yannischappetjuan/Desktop/Happy_Nation/HPN ticket/web_page/backend/api/urls.py changed, reloading.
+INFO 2024-07-03 12:05:52,128 autoreload Watching for file changes with StatReloader
+WARNING 2024-07-03 12:08:58,458 log Unauthorized: /api/display-ticket/1/
+WARNING 2024-07-03 12:08:58,459 basehttp "GET /api/display-ticket/1/ HTTP/1.1" 401 183
+WARNING 2024-07-03 12:08:58,467 log Unauthorized: /api/display-ticket/1/
+WARNING 2024-07-03 12:08:58,468 basehttp "GET /api/display-ticket/1/ HTTP/1.1" 401 183
+INFO 2024-07-03 12:08:58,477 basehttp "POST /api/token/refresh/ HTTP/1.1" 200 241
+INFO 2024-07-03 12:08:58,477 basehttp "POST /api/token/refresh/ HTTP/1.1" 200 241
+INFO 2024-07-03 12:08:58,502 basehttp "GET /api/display-ticket/1/ HTTP/1.1" 200 338
+INFO 2024-07-03 12:08:58,502 basehttp "GET /api/display-ticket/1/ HTTP/1.1" 200 338
+INFO 2024-07-03 12:12:09,851 basehttp "GET /api/display-ticket/1/ HTTP/1.1" 200 338
+INFO 2024-07-03 12:12:09,860 basehttp "GET /api/display-ticket/1/ HTTP/1.1" 200 338
+INFO 2024-07-03 12:12:33,815 basehttp "GET /api/display-ticket/1/ HTTP/1.1" 200 338
+INFO 2024-07-03 12:12:43,670 basehttp "GET /api/display-ticket/1/ HTTP/1.1" 200 338
+INFO 2024-07-03 12:13:33,090 basehttp "GET /api/display-ticket/1/ HTTP/1.1" 200 338
+INFO 2024-07-03 12:13:35,878 basehttp "GET /api/display-ticket/1/ HTTP/1.1" 200 338
+INFO 2024-07-03 12:13:35,878 basehttp "GET /api/display-ticket/1/ HTTP/1.1" 200 338
+INFO 2024-07-03 12:13:35,885 basehttp "GET /media/tickets_front/1.png HTTP/1.1" 304 0
+INFO 2024-07-03 12:13:35,886 basehttp "GET /media/tickets_back/1.png HTTP/1.1" 304 0
+INFO 2024-07-03 12:13:42,120 basehttp "GET /api/display-ticket/1/ HTTP/1.1" 200 338
+WARNING 2024-07-03 12:22:36,672 log Unauthorized: /api/display-ticket/1/
+WARNING 2024-07-03 12:22:36,673 basehttp "GET /api/display-ticket/1/ HTTP/1.1" 401 183
+WARNING 2024-07-03 12:22:36,676 log Unauthorized: /api/display-ticket/1/
+WARNING 2024-07-03 12:22:36,677 basehttp "GET /api/display-ticket/1/ HTTP/1.1" 401 183
+INFO 2024-07-03 12:22:36,680 basehttp "POST /api/token/refresh/ HTTP/1.1" 200 241
+INFO 2024-07-03 12:22:36,682 basehttp "POST /api/token/refresh/ HTTP/1.1" 200 241
+INFO 2024-07-03 12:22:36,692 basehttp "GET /api/display-ticket/1/ HTTP/1.1" 200 338
+INFO 2024-07-03 12:22:36,693 basehttp "GET /api/display-ticket/1/ HTTP/1.1" 200 338
+INFO 2024-07-03 12:22:45,762 basehttp "GET /api/display-ticket/1/ HTTP/1.1" 200 338
+INFO 2024-07-03 12:22:47,868 basehttp "GET /api/display-ticket/1/ HTTP/1.1" 200 338
+INFO 2024-07-03 12:23:19,125 basehttp "GET /api/display-ticket/1/ HTTP/1.1" 200 338
+INFO 2024-07-03 12:25:27,938 basehttp "GET /api/display-ticket/1/ HTTP/1.1" 200 338
+INFO 2024-07-03 12:25:27,942 basehttp "GET /api/display-ticket/1/ HTTP/1.1" 200 338
+INFO 2024-07-03 12:25:52,476 basehttp "GET /api/display-ticket/1/ HTTP/1.1" 200 338
+INFO 2024-07-03 12:25:52,478 basehttp "GET /api/display-ticket/1/ HTTP/1.1" 200 338
+INFO 2024-07-03 12:26:11,564 basehttp "GET /api/display-ticket/1/ HTTP/1.1" 200 338
+INFO 2024-07-03 12:26:11,565 basehttp "GET /api/display-ticket/1/ HTTP/1.1" 200 338
+WARNING 2024-07-03 12:27:47,915 log Unauthorized: /api/display-ticket/1/
+WARNING 2024-07-03 12:27:47,916 basehttp "GET /api/display-ticket/1/ HTTP/1.1" 401 183
+INFO 2024-07-03 12:27:47,924 basehttp "POST /api/token/refresh/ HTTP/1.1" 200 241
+INFO 2024-07-03 12:27:47,938 basehttp "GET /api/display-ticket/1/ HTTP/1.1" 200 338
+INFO 2024-07-03 12:27:55,033 basehttp "GET /api/display-ticket/1/ HTTP/1.1" 200 338
+INFO 2024-07-03 12:27:56,062 basehttp "GET /api/display-ticket/1/ HTTP/1.1" 200 338
+INFO 2024-07-03 12:28:45,271 basehttp "GET /api/display-ticket/1/ HTTP/1.1" 200 338
+INFO 2024-07-03 12:28:48,216 basehttp "OPTIONS /api/faq/1,2,3,4,5 HTTP/1.1" 200 0
+INFO 2024-07-03 12:28:48,224 basehttp "GET /api/display-ticket/1/ HTTP/1.1" 200 338
+WARNING 2024-07-03 12:28:48,234 log Not Found: /api/faq/1,2,3,4,5
+WARNING 2024-07-03 12:28:48,234 basehttp "GET /api/faq/1,2,3,4,5 HTTP/1.1" 404 3339
+INFO 2024-07-03 12:29:12,790 basehttp "GET /api/display-ticket/1/ HTTP/1.1" 200 338
+INFO 2024-07-03 12:29:12,792 basehttp "GET /api/display-ticket/1/ HTTP/1.1" 200 338
+INFO 2024-07-03 12:29:40,137 basehttp "GET /api/display-ticket/1/ HTTP/1.1" 200 338
+INFO 2024-07-03 12:32:02,347 basehttp "GET /api/display-ticket/1/ HTTP/1.1" 200 338
+INFO 2024-07-03 12:32:02,360 basehttp "GET /api/display-ticket/1/ HTTP/1.1" 200 338
+INFO 2024-07-03 12:32:33,665 basehttp "GET /api/display-ticket/1/ HTTP/1.1" 200 338
+INFO 2024-07-03 12:32:33,676 basehttp "GET /api/display-ticket/1/ HTTP/1.1" 200 338
+INFO 2024-07-03 12:32:34,671 basehttp "GET /api/display-ticket/1/ HTTP/1.1" 200 338
+WARNING 2024-07-03 12:32:59,100 log Unauthorized: /api/display-ticket/1/
+WARNING 2024-07-03 12:32:59,101 basehttp "GET /api/display-ticket/1/ HTTP/1.1" 401 183
+INFO 2024-07-03 12:32:59,122 basehttp "POST /api/token/refresh/ HTTP/1.1" 200 241
+INFO 2024-07-03 12:32:59,137 basehttp "GET /api/display-ticket/1/ HTTP/1.1" 200 338
+INFO 2024-07-03 12:34:21,423 basehttp "GET /api/display-ticket/1/ HTTP/1.1" 200 338
+INFO 2024-07-03 12:37:06,014 basehttp "GET /api/display-ticket/1/ HTTP/1.1" 200 338
+INFO 2024-07-03 12:37:19,077 basehttp "OPTIONS /api/faq/order_id_1 HTTP/1.1" 200 0
+INFO 2024-07-03 12:37:19,079 basehttp "OPTIONS /api/faq/order_id_2 HTTP/1.1" 200 0
+INFO 2024-07-03 12:37:19,084 basehttp "OPTIONS /api/faq/order_id_2 HTTP/1.1" 200 0
+INFO 2024-07-03 12:37:19,085 basehttp "GET /api/display-ticket/1/ HTTP/1.1" 200 338
+INFO 2024-07-03 12:37:19,088 basehttp "OPTIONS /api/faq/order_id_1 HTTP/1.1" 200 0
+INFO 2024-07-03 12:37:19,088 basehttp "OPTIONS /api/faq/order_id_3 HTTP/1.1" 200 0
+INFO 2024-07-03 12:37:19,095 basehttp "OPTIONS /api/faq/order_id_3 HTTP/1.1" 200 0
+INFO 2024-07-03 12:37:19,095 basehttp "GET /api/display-ticket/1/ HTTP/1.1" 200 338
+WARNING 2024-07-03 12:37:19,112 log Not Found: /api/faq/order_id_2
+WARNING 2024-07-03 12:37:19,114 log Not Found: /api/faq/order_id_1
+WARNING 2024-07-03 12:37:19,115 basehttp "GET /api/faq/order_id_2 HTTP/1.1" 404 3342
+WARNING 2024-07-03 12:37:19,117 basehttp "GET /api/faq/order_id_1 HTTP/1.1" 404 3342
+WARNING 2024-07-03 12:37:19,118 log Not Found: /api/faq/order_id_1
+WARNING 2024-07-03 12:37:19,119 log Not Found: /api/faq/order_id_3
+WARNING 2024-07-03 12:37:19,120 log Not Found: /api/faq/order_id_2
+WARNING 2024-07-03 12:37:19,121 log Not Found: /api/faq/order_id_3
+WARNING 2024-07-03 12:37:19,121 basehttp "GET /api/faq/order_id_1 HTTP/1.1" 404 3342
+WARNING 2024-07-03 12:37:19,121 basehttp "GET /api/faq/order_id_3 HTTP/1.1" 404 3342
+WARNING 2024-07-03 12:37:19,122 basehttp "GET /api/faq/order_id_2 HTTP/1.1" 404 3342
+WARNING 2024-07-03 12:37:19,122 basehttp "GET /api/faq/order_id_3 HTTP/1.1" 404 3342
+INFO 2024-07-03 12:37:24,202 basehttp "GET /api/display-ticket/1/ HTTP/1.1" 200 338
+WARNING 2024-07-03 12:37:24,215 log Not Found: /api/faq/order_id_3
+WARNING 2024-07-03 12:37:24,216 basehttp "GET /api/faq/order_id_3 HTTP/1.1" 404 3342
+WARNING 2024-07-03 12:37:24,220 log Not Found: /api/faq/order_id_2
+WARNING 2024-07-03 12:37:24,221 log Not Found: /api/faq/order_id_1
+WARNING 2024-07-03 12:37:24,222 basehttp "GET /api/faq/order_id_2 HTTP/1.1" 404 3342
+WARNING 2024-07-03 12:37:24,222 basehttp "GET /api/faq/order_id_1 HTTP/1.1" 404 3342
+WARNING 2024-07-03 12:37:48,565 log Not Found: /api/faq/order_id_3
+WARNING 2024-07-03 12:37:48,567 log Not Found: /api/faq/order_id_2
+WARNING 2024-07-03 12:37:48,569 basehttp "GET /api/faq/order_id_3 HTTP/1.1" 404 3342
+WARNING 2024-07-03 12:37:48,569 log Not Found: /api/faq/order_id_1
+WARNING 2024-07-03 12:37:48,570 basehttp "GET /api/faq/order_id_1 HTTP/1.1" 404 3342
+WARNING 2024-07-03 12:37:48,571 basehttp "GET /api/faq/order_id_2 HTTP/1.1" 404 3342
+INFO 2024-07-03 12:37:48,571 basehttp "GET /api/display-ticket/1/ HTTP/1.1" 200 338
+WARNING 2024-07-03 12:37:51,650 log Not Found: /api/faq/order_id_1
+WARNING 2024-07-03 12:37:51,653 basehttp "GET /api/faq/order_id_1 HTTP/1.1" 404 3342
+WARNING 2024-07-03 12:37:51,655 log Not Found: /api/faq/order_id_2
+INFO 2024-07-03 12:37:51,657 basehttp "GET /api/display-ticket/1/ HTTP/1.1" 200 338
+WARNING 2024-07-03 12:37:51,658 log Not Found: /api/faq/order_id_3
+WARNING 2024-07-03 12:37:51,658 basehttp "GET /api/faq/order_id_3 HTTP/1.1" 404 3342
+WARNING 2024-07-03 12:37:51,658 basehttp "GET /api/faq/order_id_2 HTTP/1.1" 404 3342
+WARNING 2024-07-03 12:38:47,492 log Unauthorized: /api/display-ticket/1/
+WARNING 2024-07-03 12:38:47,501 basehttp "GET /api/display-ticket/1/ HTTP/1.1" 401 183
+INFO 2024-07-03 12:38:47,514 basehttp "POST /api/token/refresh/ HTTP/1.1" 200 241
+WARNING 2024-07-03 12:38:47,524 log Not Found: /api/faq/order_id_1
+WARNING 2024-07-03 12:38:47,526 log Not Found: /api/faq/order_id_2
+WARNING 2024-07-03 12:38:47,530 basehttp "GET /api/faq/order_id_2 HTTP/1.1" 404 3342
+WARNING 2024-07-03 12:38:47,530 basehttp "GET /api/faq/order_id_1 HTTP/1.1" 404 3342
+WARNING 2024-07-03 12:38:47,531 log Not Found: /api/faq/order_id_3
+WARNING 2024-07-03 12:38:47,533 basehttp "GET /api/faq/order_id_3 HTTP/1.1" 404 3342
+INFO 2024-07-03 12:38:47,535 basehttp "GET /api/display-ticket/1/ HTTP/1.1" 200 338
+INFO 2024-07-03 12:38:57,856 basehttp "GET /api/display-ticket/1/ HTTP/1.1" 200 338
+WARNING 2024-07-03 12:38:57,857 log Not Found: /api/faq/order_id_2
+WARNING 2024-07-03 12:38:57,859 log Not Found: /api/faq/order_id_1
+WARNING 2024-07-03 12:38:57,861 basehttp "GET /api/faq/order_id_2 HTTP/1.1" 404 3342
+WARNING 2024-07-03 12:38:57,861 log Not Found: /api/faq/order_id_3
+WARNING 2024-07-03 12:38:57,862 basehttp "GET /api/faq/order_id_1 HTTP/1.1" 404 3342
+WARNING 2024-07-03 12:38:57,862 basehttp "GET /api/faq/order_id_3 HTTP/1.1" 404 3342
+INFO 2024-07-03 12:39:02,152 basehttp "GET /api/display-ticket/1/ HTTP/1.1" 200 338
+WARNING 2024-07-03 12:39:02,154 log Not Found: /api/faq/order_id_1
+WARNING 2024-07-03 12:39:02,156 log Not Found: /api/faq/order_id_2
+WARNING 2024-07-03 12:39:02,157 basehttp "GET /api/faq/order_id_1 HTTP/1.1" 404 3342
+WARNING 2024-07-03 12:39:02,157 log Not Found: /api/faq/order_id_3
+WARNING 2024-07-03 12:39:02,158 basehttp "GET /api/faq/order_id_2 HTTP/1.1" 404 3342
+WARNING 2024-07-03 12:39:02,158 basehttp "GET /api/faq/order_id_3 HTTP/1.1" 404 3342
+INFO 2024-07-03 12:39:09,874 basehttp "GET /api/display-ticket/1/ HTTP/1.1" 200 338
+WARNING 2024-07-03 12:39:09,876 log Not Found: /api/faq/order_id_1
+WARNING 2024-07-03 12:39:09,878 log Not Found: /api/faq/order_id_3
+WARNING 2024-07-03 12:39:09,879 log Not Found: /api/faq/order_id_2
+WARNING 2024-07-03 12:39:09,879 basehttp "GET /api/faq/order_id_3 HTTP/1.1" 404 3342
+WARNING 2024-07-03 12:39:09,879 basehttp "GET /api/faq/order_id_1 HTTP/1.1" 404 3342
+WARNING 2024-07-03 12:39:09,880 basehttp "GET /api/faq/order_id_2 HTTP/1.1" 404 3342
+WARNING 2024-07-03 12:39:17,680 log Not Found: /api/faq/order_id_1
+WARNING 2024-07-03 12:39:17,686 log Not Found: /api/faq/order_id_3
+WARNING 2024-07-03 12:39:17,687 basehttp "GET /api/faq/order_id_1 HTTP/1.1" 404 3342
+WARNING 2024-07-03 12:39:17,690 basehttp "GET /api/faq/order_id_3 HTTP/1.1" 404 3342
+WARNING 2024-07-03 12:39:17,690 log Not Found: /api/faq/order_id_2
+INFO 2024-07-03 12:39:17,691 basehttp "GET /api/display-ticket/1/ HTTP/1.1" 200 338
+WARNING 2024-07-03 12:39:17,691 basehttp "GET /api/faq/order_id_2 HTTP/1.1" 404 3342
+WARNING 2024-07-03 12:39:30,822 log Not Found: /api/faq/order_id_3
+WARNING 2024-07-03 12:39:30,823 basehttp "GET /api/faq/order_id_3 HTTP/1.1" 404 3342
+WARNING 2024-07-03 12:39:30,828 log Not Found: /api/faq/order_id_1
+WARNING 2024-07-03 12:39:30,830 basehttp "GET /api/faq/order_id_1 HTTP/1.1" 404 3342
+WARNING 2024-07-03 12:39:30,831 log Not Found: /api/faq/order_id_2
+WARNING 2024-07-03 12:39:30,833 basehttp "GET /api/faq/order_id_2 HTTP/1.1" 404 3342
+INFO 2024-07-03 12:39:30,833 basehttp "GET /api/display-ticket/1/ HTTP/1.1" 200 338
+WARNING 2024-07-03 12:39:52,888 log Not Found: /api/faq/order_id_3
+WARNING 2024-07-03 12:39:52,891 log Not Found: /api/faq/order_id_2
+WARNING 2024-07-03 12:39:52,893 basehttp "GET /api/faq/order_id_3 HTTP/1.1" 404 3342
+WARNING 2024-07-03 12:39:52,894 log Not Found: /api/faq/order_id_1
+WARNING 2024-07-03 12:39:52,895 basehttp "GET /api/faq/order_id_2 HTTP/1.1" 404 3342
+INFO 2024-07-03 12:39:52,897 basehttp "GET /api/display-ticket/1/ HTTP/1.1" 200 338
+WARNING 2024-07-03 12:39:52,897 basehttp "GET /api/faq/order_id_1 HTTP/1.1" 404 3342
+WARNING 2024-07-03 12:40:02,900 log Not Found: /api/faq/order_id_3
+WARNING 2024-07-03 12:40:02,904 log Not Found: /api/faq/order_id_1
+WARNING 2024-07-03 12:40:02,906 basehttp "GET /api/faq/order_id_3 HTTP/1.1" 404 3342
+WARNING 2024-07-03 12:40:02,907 basehttp "GET /api/faq/order_id_1 HTTP/1.1" 404 3342
+WARNING 2024-07-03 12:40:02,908 log Not Found: /api/faq/order_id_2
+INFO 2024-07-03 12:40:02,909 basehttp "GET /api/display-ticket/1/ HTTP/1.1" 200 338
+WARNING 2024-07-03 12:40:02,909 basehttp "GET /api/faq/order_id_2 HTTP/1.1" 404 3342
+INFO 2024-07-03 12:40:34,983 basehttp "GET /api/display-ticket/1/ HTTP/1.1" 200 338
+WARNING 2024-07-03 12:40:34,989 log Not Found: /api/faq/order_id_3
+WARNING 2024-07-03 12:40:34,990 log Not Found: /api/faq/order_id_1
+WARNING 2024-07-03 12:40:34,991 log Not Found: /api/faq/order_id_2
+WARNING 2024-07-03 12:40:34,992 basehttp "GET /api/faq/order_id_3 HTTP/1.1" 404 3342
+WARNING 2024-07-03 12:40:34,992 basehttp "GET /api/faq/order_id_1 HTTP/1.1" 404 3342
+WARNING 2024-07-03 12:40:34,992 basehttp "GET /api/faq/order_id_2 HTTP/1.1" 404 3342
+WARNING 2024-07-03 12:41:37,582 log Not Found: /api/faq/order_id_2
+WARNING 2024-07-03 12:41:37,583 log Not Found: /api/faq/order_id_1
+WARNING 2024-07-03 12:41:37,585 log Not Found: /api/faq/order_id_3
+WARNING 2024-07-03 12:41:37,585 basehttp "GET /api/faq/order_id_2 HTTP/1.1" 404 3342
+WARNING 2024-07-03 12:41:37,586 basehttp "GET /api/faq/order_id_1 HTTP/1.1" 404 3342
+WARNING 2024-07-03 12:41:37,587 basehttp "GET /api/faq/order_id_3 HTTP/1.1" 404 3342
+INFO 2024-07-03 12:41:37,587 basehttp "GET /api/display-ticket/1/ HTTP/1.1" 200 338
+INFO 2024-07-03 12:41:57,837 basehttp "GET /admin HTTP/1.1" 301 0
+INFO 2024-07-03 12:41:57,846 basehttp "GET /admin/ HTTP/1.1" 302 0
+INFO 2024-07-03 12:41:57,863 basehttp "GET /admin/login/?next=/admin/ HTTP/1.1" 200 4158
+INFO 2024-07-03 12:41:57,895 basehttp "GET /static/admin/css/login.css HTTP/1.1" 200 958
+INFO 2024-07-03 12:41:57,896 basehttp "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 200 2810
+INFO 2024-07-03 12:41:57,896 basehttp "GET /static/admin/js/theme.js HTTP/1.1" 200 1943
+INFO 2024-07-03 12:41:57,897 basehttp "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 200 3063
+INFO 2024-07-03 12:41:57,897 basehttp "GET /static/admin/css/dark_mode.css HTTP/1.1" 200 2682
+INFO 2024-07-03 12:41:57,897 basehttp "GET /static/admin/css/base.css HTTP/1.1" 200 21544
+INFO 2024-07-03 12:41:57,898 basehttp "GET /static/admin/css/responsive.css HTTP/1.1" 200 17905
+WARNING 2024-07-03 12:41:57,929 log Not Found: /favicon.ico
+WARNING 2024-07-03 12:41:57,929 basehttp "GET /favicon.ico HTTP/1.1" 404 2449
+INFO 2024-07-03 12:42:06,455 basehttp "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+INFO 2024-07-03 12:42:06,467 basehttp "GET /admin/ HTTP/1.1" 200 8378
+INFO 2024-07-03 12:42:06,497 basehttp "GET /static/admin/css/dashboard.css HTTP/1.1" 200 441
+INFO 2024-07-03 12:42:06,510 basehttp "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 200 331
+INFO 2024-07-03 12:42:06,510 basehttp "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 200 380
+INFO 2024-07-03 12:42:09,361 basehttp "GET /admin/api/faq/ HTTP/1.1" 200 7923
+INFO 2024-07-03 12:42:09,404 basehttp "GET /static/admin/js/jquery.init.js HTTP/1.1" 200 347
+INFO 2024-07-03 12:42:09,404 basehttp "GET /static/admin/css/changelists.css HTTP/1.1" 200 6811
+INFO 2024-07-03 12:42:09,405 basehttp "GET /static/admin/js/core.js HTTP/1.1" 200 6208
+INFO 2024-07-03 12:42:09,406 basehttp "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 200 9042
+INFO 2024-07-03 12:42:09,407 basehttp "GET /static/admin/js/actions.js HTTP/1.1" 200 8067
+INFO 2024-07-03 12:42:09,408 basehttp "GET /static/admin/js/urlify.js HTTP/1.1" 200 7887
+INFO 2024-07-03 12:42:09,409 basehttp "GET /static/admin/js/prepopulate.js HTTP/1.1" 200 1531
+INFO 2024-07-03 12:42:09,410 basehttp "GET /static/admin/js/filters.js HTTP/1.1" 200 978
+INFO 2024-07-03 12:42:09,410 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2024-07-03 12:42:09,411 basehttp "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 200 285314
+INFO 2024-07-03 12:42:09,411 basehttp "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 200 325171
+INFO 2024-07-03 12:42:09,425 basehttp "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 200 331
+INFO 2024-07-03 12:42:11,345 basehttp "GET /admin/api/faq/add/ HTTP/1.1" 200 9964
+INFO 2024-07-03 12:42:11,379 basehttp "GET /static/admin/js/change_form.js HTTP/1.1" 200 606
+INFO 2024-07-03 12:42:11,379 basehttp "GET /static/admin/js/prepopulate_init.js HTTP/1.1" 200 586
+INFO 2024-07-03 12:42:11,380 basehttp "GET /static/admin/css/forms.css HTTP/1.1" 200 9090
+INFO 2024-07-03 12:42:11,380 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2024-07-03 12:42:11,384 basehttp "GET /static/admin/css/widgets.css HTTP/1.1" 200 11800
+INFO 2024-07-03 12:42:20,933 basehttp "POST /admin/api/faq/add/ HTTP/1.1" 302 0
+INFO 2024-07-03 12:42:20,958 basehttp "GET /admin/api/faq/ HTTP/1.1" 200 9384
+INFO 2024-07-03 12:42:21,001 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2024-07-03 12:42:21,011 basehttp "GET /static/admin/img/icon-yes.svg HTTP/1.1" 200 436
+INFO 2024-07-03 12:42:24,657 basehttp "GET /admin/api/faq/add/ HTTP/1.1" 200 9964
+INFO 2024-07-03 12:42:24,699 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2024-07-03 12:42:31,377 basehttp "POST /admin/api/faq/add/ HTTP/1.1" 302 0
+INFO 2024-07-03 12:42:31,396 basehttp "GET /admin/api/faq/ HTTP/1.1" 200 9656
+INFO 2024-07-03 12:42:31,427 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+WARNING 2024-07-03 12:42:38,433 log Not Found: /api/faq/order_id_1
+WARNING 2024-07-03 12:42:38,436 log Not Found: /api/faq/order_id_2
+WARNING 2024-07-03 12:42:38,436 basehttp "GET /api/faq/order_id_1 HTTP/1.1" 404 3342
+WARNING 2024-07-03 12:42:38,438 log Not Found: /api/faq/order_id_3
+INFO 2024-07-03 12:42:38,438 basehttp "GET /api/display-ticket/1/ HTTP/1.1" 200 338
+WARNING 2024-07-03 12:42:38,438 basehttp "GET /api/faq/order_id_2 HTTP/1.1" 404 3342
+WARNING 2024-07-03 12:42:38,439 basehttp "GET /api/faq/order_id_3 HTTP/1.1" 404 3342
+WARNING 2024-07-03 12:42:40,433 log Not Found: /api/faq/order_id_1
+WARNING 2024-07-03 12:42:40,435 log Not Found: /api/faq/order_id_2
+WARNING 2024-07-03 12:42:40,438 basehttp "GET /api/faq/order_id_1 HTTP/1.1" 404 3342
+WARNING 2024-07-03 12:42:40,439 log Not Found: /api/faq/order_id_3
+WARNING 2024-07-03 12:42:40,439 basehttp "GET /api/faq/order_id_2 HTTP/1.1" 404 3342
+WARNING 2024-07-03 12:42:40,441 basehttp "GET /api/faq/order_id_3 HTTP/1.1" 404 3342
+INFO 2024-07-03 12:42:40,441 basehttp "GET /api/display-ticket/1/ HTTP/1.1" 200 338
+WARNING 2024-07-03 12:42:55,492 log Not Found: /api/faq/order_id_1
+WARNING 2024-07-03 12:42:55,494 log Not Found: /api/faq/order_id_2
+WARNING 2024-07-03 12:42:55,494 basehttp "GET /api/faq/order_id_1 HTTP/1.1" 404 3342
+WARNING 2024-07-03 12:42:55,495 log Not Found: /api/faq/order_id_3
+INFO 2024-07-03 12:42:55,496 basehttp "GET /api/display-ticket/1/ HTTP/1.1" 200 338
+WARNING 2024-07-03 12:42:55,496 log Not Found: /api/faq/order_id_1
+WARNING 2024-07-03 12:42:55,497 basehttp "GET /api/faq/order_id_2 HTTP/1.1" 404 3342
+WARNING 2024-07-03 12:42:55,498 basehttp "GET /api/faq/order_id_3 HTTP/1.1" 404 3342
+INFO 2024-07-03 12:42:55,499 basehttp "GET /api/display-ticket/1/ HTTP/1.1" 200 338
+WARNING 2024-07-03 12:42:55,500 basehttp "GET /api/faq/order_id_1 HTTP/1.1" 404 3342
+WARNING 2024-07-03 12:42:55,503 log Not Found: /api/faq/order_id_2
+WARNING 2024-07-03 12:42:55,504 log Not Found: /api/faq/order_id_3
+WARNING 2024-07-03 12:42:55,504 basehttp "GET /api/faq/order_id_3 HTTP/1.1" 404 3342
+WARNING 2024-07-03 12:42:55,504 basehttp "GET /api/faq/order_id_2 HTTP/1.1" 404 3342
+INFO 2024-07-03 12:43:17,369 basehttp "OPTIONS /api/faq/2 HTTP/1.1" 200 0
+INFO 2024-07-03 12:43:17,372 basehttp "OPTIONS /api/faq/1 HTTP/1.1" 200 0
+INFO 2024-07-03 12:43:17,387 basehttp "GET /api/display-ticket/1/ HTTP/1.1" 200 338
+INFO 2024-07-03 12:43:17,396 basehttp "GET /api/faq/2 HTTP/1.1" 301 0
+INFO 2024-07-03 12:43:17,398 basehttp "GET /api/faq/1 HTTP/1.1" 301 0
+ERROR 2024-07-03 12:44:33,131 log Internal Server Error: /api/faq/1
+Traceback (most recent call last):
+  File "/Users/yannischappetjuan/Desktop/Happy_Nation/HPN ticket/web_page/env/lib/python3.11/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/yannischappetjuan/Desktop/Happy_Nation/HPN ticket/web_page/env/lib/python3.11/site-packages/django/utils/deprecation.py", line 136, in __call__
+    response = self.process_response(request, response)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/yannischappetjuan/Desktop/Happy_Nation/HPN ticket/web_page/env/lib/python3.11/site-packages/django/middleware/common.py", line 108, in process_response
+    return self.response_redirect_class(self.get_full_path_with_slash(request))
+                                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/yannischappetjuan/Desktop/Happy_Nation/HPN ticket/web_page/env/lib/python3.11/site-packages/django/middleware/common.py", line 87, in get_full_path_with_slash
+    raise RuntimeError(
+RuntimeError: You called this URL via POST, but the URL doesn't end in a slash and you have APPEND_SLASH set. Django can't redirect to the slash URL while maintaining POST data. Change your form to point to localhost:8000/api/faq/1/ (note the trailing slash), or set APPEND_SLASH=False in your Django settings.
+ERROR 2024-07-03 12:44:33,131 basehttp "POST /api/faq/1 HTTP/1.1" 500 67318
+WARNING 2024-07-03 12:44:49,366 log Unauthorized: /api/faq/1/
+WARNING 2024-07-03 12:44:49,366 basehttp "POST /api/faq/1/ HTTP/1.1" 401 58
+INFO 2024-07-03 12:45:12,002 basehttp "POST /api/token/refresh/ HTTP/1.1" 200 241
+INFO 2024-07-03 12:45:12,002 basehttp "POST /api/token/refresh/ HTTP/1.1" 200 241
+INFO 2024-07-03 12:45:12,017 basehttp "GET /api/display-ticket/1/ HTTP/1.1" 200 338
+INFO 2024-07-03 12:45:12,020 basehttp "GET /api/display-ticket/1/ HTTP/1.1" 200 338
+INFO 2024-07-03 12:45:12,020 basehttp "OPTIONS /api/faq/2/ HTTP/1.1" 200 0
+INFO 2024-07-03 12:45:12,022 basehttp "OPTIONS /api/faq/1/ HTTP/1.1" 200 0
+INFO 2024-07-03 12:45:12,022 basehttp "OPTIONS /api/faq/1/ HTTP/1.1" 200 0
+INFO 2024-07-03 12:45:12,025 basehttp "OPTIONS /api/faq/2/ HTTP/1.1" 200 0
+INFO 2024-07-03 12:45:12,026 basehttp "GET /api/faq/2/ HTTP/1.1" 200 41
+INFO 2024-07-03 12:45:12,030 basehttp "GET /api/faq/1/ HTTP/1.1" 200 41
+INFO 2024-07-03 12:45:12,031 basehttp "GET /api/faq/1/ HTTP/1.1" 200 41
+INFO 2024-07-03 12:45:12,033 basehttp "GET /api/faq/2/ HTTP/1.1" 200 41
+INFO 2024-07-03 12:45:15,307 basehttp "GET /api/display-ticket/1/ HTTP/1.1" 200 338
+INFO 2024-07-03 12:45:15,320 basehttp "GET /api/display-ticket/1/ HTTP/1.1" 200 338
+INFO 2024-07-03 12:45:15,321 basehttp "GET /api/faq/2/ HTTP/1.1" 200 41
+INFO 2024-07-03 12:45:15,321 basehttp "GET /api/faq/1/ HTTP/1.1" 200 41
+INFO 2024-07-03 12:45:15,321 basehttp "GET /api/faq/2/ HTTP/1.1" 200 41
+INFO 2024-07-03 12:45:15,322 basehttp "GET /api/faq/1/ HTTP/1.1" 200 41
+INFO 2024-07-03 12:45:21,311 basehttp "POST /api/token/ HTTP/1.1" 200 483
+INFO 2024-07-03 12:45:21,339 basehttp "GET /api/faq/1/ HTTP/1.1" 200 41
+INFO 2024-07-03 12:45:21,339 basehttp "GET /api/faq/1/ HTTP/1.1" 200 41
+INFO 2024-07-03 12:45:21,340 basehttp "GET /api/faq/2/ HTTP/1.1" 200 41
+INFO 2024-07-03 12:45:21,341 basehttp "GET /api/faq/2/ HTTP/1.1" 200 41
+INFO 2024-07-03 12:45:21,344 basehttp "GET /api/display-ticket/1/ HTTP/1.1" 200 338
+INFO 2024-07-03 12:45:21,344 basehttp "GET /api/display-ticket/1/ HTTP/1.1" 200 338
+INFO 2024-07-03 12:45:42,599 basehttp "GET /api/faq/1/ HTTP/1.1" 200 41
+INFO 2024-07-03 12:45:42,603 basehttp "GET /api/faq/2/ HTTP/1.1" 200 41
+INFO 2024-07-03 12:45:42,605 basehttp "GET /api/faq/1/ HTTP/1.1" 200 41
+INFO 2024-07-03 12:45:42,605 basehttp "GET /api/display-ticket/1/ HTTP/1.1" 200 338
+INFO 2024-07-03 12:45:42,606 basehttp "GET /api/faq/2/ HTTP/1.1" 200 41
+INFO 2024-07-03 12:45:42,606 basehttp "GET /api/display-ticket/1/ HTTP/1.1" 200 338
+INFO 2024-07-03 12:46:04,307 basehttp "GET /api/faq/2/ HTTP/1.1" 200 41
+INFO 2024-07-03 12:46:04,307 basehttp "GET /api/faq/1/ HTTP/1.1" 200 41
+INFO 2024-07-03 12:46:04,308 basehttp "GET /api/faq/1/ HTTP/1.1" 200 41
+INFO 2024-07-03 12:46:04,308 basehttp "GET /api/display-ticket/1/ HTTP/1.1" 200 338
+INFO 2024-07-03 12:46:04,308 basehttp "GET /api/faq/2/ HTTP/1.1" 200 41
+INFO 2024-07-03 12:46:04,311 basehttp "GET /api/display-ticket/1/ HTTP/1.1" 200 338
+INFO 2024-07-03 12:46:39,534 basehttp "GET /api/display-ticket/1/ HTTP/1.1" 200 338
+INFO 2024-07-03 12:46:39,534 basehttp "GET /api/faq/1/ HTTP/1.1" 200 41
+INFO 2024-07-03 12:46:39,534 basehttp "GET /api/faq/2/ HTTP/1.1" 200 41
+INFO 2024-07-03 13:17:10,439 basehttp "POST /api/token/refresh/ HTTP/1.1" 200 241
+INFO 2024-07-03 13:17:10,443 basehttp "POST /api/token/refresh/ HTTP/1.1" 200 241
+INFO 2024-07-03 13:17:10,470 basehttp "GET /api/display-ticket/1/ HTTP/1.1" 200 338
+INFO 2024-07-03 13:17:10,471 basehttp "GET /api/faq/1/ HTTP/1.1" 200 41
+INFO 2024-07-03 13:17:10,472 basehttp "GET /api/faq/2/ HTTP/1.1" 200 41
+INFO 2024-07-03 13:17:10,475 basehttp "GET /api/faq/1/ HTTP/1.1" 200 41
+INFO 2024-07-03 13:17:10,476 basehttp "GET /api/faq/2/ HTTP/1.1" 200 41
+INFO 2024-07-03 13:17:10,476 basehttp "GET /api/display-ticket/1/ HTTP/1.1" 200 338
+INFO 2024-07-03 13:19:37,120 basehttp "GET /api/display-ticket/1/ HTTP/1.1" 200 338
+INFO 2024-07-03 13:19:37,126 basehttp "GET /api/faq/1/ HTTP/1.1" 200 41
+INFO 2024-07-03 13:19:37,128 basehttp "GET /api/faq/2/ HTTP/1.1" 200 41
+INFO 2024-07-03 13:20:22,025 basehttp "GET /api/faq/2/ HTTP/1.1" 200 41
+INFO 2024-07-03 13:20:22,026 basehttp "GET /api/faq/1/ HTTP/1.1" 200 41
+INFO 2024-07-03 13:20:22,028 basehttp "GET /api/display-ticket/1/ HTTP/1.1" 200 338
+INFO 2024-07-03 13:20:34,783 basehttp "GET /api/faq/1/ HTTP/1.1" 200 41
+INFO 2024-07-03 13:20:34,784 basehttp "GET /api/faq/2/ HTTP/1.1" 200 41
+INFO 2024-07-03 13:20:34,788 basehttp "GET /api/display-ticket/1/ HTTP/1.1" 200 338
+INFO 2024-07-03 13:28:04,984 basehttp "POST /api/token/refresh/ HTTP/1.1" 200 241
+INFO 2024-07-03 13:28:04,989 basehttp "POST /api/token/refresh/ HTTP/1.1" 200 241
+INFO 2024-07-03 13:28:05,027 basehttp "GET /api/display-ticket/1/ HTTP/1.1" 200 338
+INFO 2024-07-03 13:28:05,030 basehttp "GET /api/faq/2/ HTTP/1.1" 200 41
+INFO 2024-07-03 13:28:05,030 basehttp "GET /api/faq/1/ HTTP/1.1" 200 41
+INFO 2024-07-03 13:28:05,031 basehttp "GET /api/faq/1/ HTTP/1.1" 200 41
+INFO 2024-07-03 13:28:05,031 basehttp "GET /api/faq/2/ HTTP/1.1" 200 41
+INFO 2024-07-03 13:28:05,033 basehttp "GET /api/display-ticket/1/ HTTP/1.1" 200 338
+INFO 2024-07-03 13:29:36,437 basehttp "GET /api/faq/2/ HTTP/1.1" 200 41
+INFO 2024-07-03 13:29:36,437 basehttp "GET /api/display-ticket/1/ HTTP/1.1" 200 338
+INFO 2024-07-03 13:29:36,437 basehttp "GET /api/faq/1/ HTTP/1.1" 200 41
+INFO 2024-07-03 13:29:39,475 basehttp "GET /api/faq/1/ HTTP/1.1" 200 41
+INFO 2024-07-03 13:29:39,476 basehttp "GET /api/faq/2/ HTTP/1.1" 200 41
+INFO 2024-07-03 13:29:39,477 basehttp "GET /api/faq/1/ HTTP/1.1" 200 41
+INFO 2024-07-03 13:29:39,478 basehttp "GET /api/faq/2/ HTTP/1.1" 200 41
+INFO 2024-07-03 13:29:39,479 basehttp "GET /api/display-ticket/1/ HTTP/1.1" 200 338
+INFO 2024-07-03 13:29:39,480 basehttp "GET /api/display-ticket/1/ HTTP/1.1" 200 338
+INFO 2024-07-03 13:29:43,911 basehttp "GET /api/faq/1/ HTTP/1.1" 200 41
+INFO 2024-07-03 13:29:43,912 basehttp "GET /api/faq/2/ HTTP/1.1" 200 41
+INFO 2024-07-03 13:29:43,912 basehttp "GET /api/faq/1/ HTTP/1.1" 200 41
+INFO 2024-07-03 13:29:43,913 basehttp "GET /api/faq/2/ HTTP/1.1" 200 41
+INFO 2024-07-03 13:29:43,915 basehttp "GET /api/display-ticket/1/ HTTP/1.1" 200 338
+INFO 2024-07-03 13:29:43,918 basehttp "GET /api/display-ticket/1/ HTTP/1.1" 200 338
+INFO 2024-07-03 13:30:23,103 basehttp "GET /api/display-ticket/1/ HTTP/1.1" 200 338
+INFO 2024-07-03 13:30:23,103 basehttp "GET /api/faq/2/ HTTP/1.1" 200 41
+INFO 2024-07-03 13:30:23,103 basehttp "GET /api/faq/1/ HTTP/1.1" 200 41
+INFO 2024-07-03 13:30:25,670 basehttp "GET /api/display-ticket/1/ HTTP/1.1" 200 338
+INFO 2024-07-03 13:30:25,674 basehttp "GET /api/faq/2/ HTTP/1.1" 200 41
+INFO 2024-07-03 13:30:25,674 basehttp "GET /api/faq/1/ HTTP/1.1" 200 41
+INFO 2024-07-03 13:30:25,675 basehttp "GET /api/faq/2/ HTTP/1.1" 200 41
+INFO 2024-07-03 13:30:25,675 basehttp "GET /api/display-ticket/1/ HTTP/1.1" 200 338
+INFO 2024-07-03 13:30:25,676 basehttp "GET /api/faq/1/ HTTP/1.1" 200 41
+INFO 2024-07-03 13:30:49,072 basehttp "GET /api/faq/2/ HTTP/1.1" 200 41
+INFO 2024-07-03 13:30:49,074 basehttp "GET /api/display-ticket/1/ HTTP/1.1" 200 338
+INFO 2024-07-03 13:30:49,075 basehttp "GET /api/faq/1/ HTTP/1.1" 200 41
+INFO 2024-07-03 13:30:51,539 basehttp "GET /api/faq/2/ HTTP/1.1" 200 41
+INFO 2024-07-03 13:30:51,541 basehttp "GET /api/faq/1/ HTTP/1.1" 200 41
+INFO 2024-07-03 13:30:51,541 basehttp "GET /api/faq/1/ HTTP/1.1" 200 41
+INFO 2024-07-03 13:30:51,543 basehttp "GET /api/faq/2/ HTTP/1.1" 200 41
+INFO 2024-07-03 13:30:51,544 basehttp "GET /api/display-ticket/1/ HTTP/1.1" 200 338
+INFO 2024-07-03 13:30:51,545 basehttp "GET /api/display-ticket/1/ HTTP/1.1" 200 338
+INFO 2024-07-03 13:32:21,490 basehttp "GET /api/faq/1/ HTTP/1.1" 200 41
+INFO 2024-07-03 13:32:21,491 basehttp "GET /api/faq/2/ HTTP/1.1" 200 41
+INFO 2024-07-03 13:32:21,497 basehttp "GET /api/display-ticket/1/ HTTP/1.1" 200 338
+INFO 2024-07-03 13:32:23,248 basehttp "GET /api/faq/2/ HTTP/1.1" 200 41
+INFO 2024-07-03 13:32:23,250 basehttp "GET /api/faq/2/ HTTP/1.1" 200 41
+INFO 2024-07-03 13:32:23,250 basehttp "GET /api/faq/1/ HTTP/1.1" 200 41
+INFO 2024-07-03 13:32:23,254 basehttp "GET /api/faq/1/ HTTP/1.1" 200 41
+INFO 2024-07-03 13:32:23,255 basehttp "GET /api/display-ticket/1/ HTTP/1.1" 200 338
+INFO 2024-07-03 13:32:23,256 basehttp "GET /api/display-ticket/1/ HTTP/1.1" 200 338
+WARNING 2024-07-03 13:33:22,898 log Unauthorized: /api/display-ticket/1/
+WARNING 2024-07-03 13:33:22,900 log Unauthorized: /api/faq/1/
+WARNING 2024-07-03 13:33:22,901 log Unauthorized: /api/faq/2/
+WARNING 2024-07-03 13:33:22,902 basehttp "GET /api/display-ticket/1/ HTTP/1.1" 401 183
+WARNING 2024-07-03 13:33:22,903 basehttp "GET /api/faq/1/ HTTP/1.1" 401 183
+WARNING 2024-07-03 13:33:22,903 basehttp "GET /api/faq/2/ HTTP/1.1" 401 183
+INFO 2024-07-03 13:33:22,915 basehttp "POST /api/token/refresh/ HTTP/1.1" 200 241
+INFO 2024-07-03 13:33:22,919 basehttp "POST /api/token/refresh/ HTTP/1.1" 200 241
+INFO 2024-07-03 13:33:22,920 basehttp "POST /api/token/refresh/ HTTP/1.1" 200 241
+INFO 2024-07-03 13:33:22,934 basehttp "GET /api/faq/2/ HTTP/1.1" 200 41
+INFO 2024-07-03 13:33:22,936 basehttp "GET /api/faq/1/ HTTP/1.1" 200 41
+INFO 2024-07-03 13:33:22,937 basehttp "GET /api/display-ticket/1/ HTTP/1.1" 200 338
+INFO 2024-07-03 13:33:23,992 basehttp "GET /api/display-ticket/1/ HTTP/1.1" 200 338
+INFO 2024-07-03 13:33:23,994 basehttp "GET /api/faq/2/ HTTP/1.1" 200 41
+INFO 2024-07-03 13:33:23,994 basehttp "GET /api/faq/1/ HTTP/1.1" 200 41
+INFO 2024-07-03 13:33:26,389 basehttp "GET /api/display-ticket/1/ HTTP/1.1" 200 338
+INFO 2024-07-03 13:33:26,394 basehttp "GET /api/faq/1/ HTTP/1.1" 200 41
+INFO 2024-07-03 13:33:26,407 basehttp "GET /api/display-ticket/1/ HTTP/1.1" 200 338
+INFO 2024-07-03 13:33:26,408 basehttp "GET /api/faq/2/ HTTP/1.1" 200 41
+INFO 2024-07-03 13:33:26,409 basehttp "GET /api/faq/2/ HTTP/1.1" 200 41
+INFO 2024-07-03 13:33:26,409 basehttp "GET /api/faq/1/ HTTP/1.1" 200 41
+INFO 2024-07-03 13:34:44,299 basehttp "GET /api/display-ticket/1/ HTTP/1.1" 200 338
+INFO 2024-07-03 13:34:44,307 basehttp "GET /api/faq/1/ HTTP/1.1" 200 41
+INFO 2024-07-03 13:34:44,311 basehttp "GET /api/faq/2/ HTTP/1.1" 200 41
+INFO 2024-07-03 13:34:44,334 basehttp "GET /api/display-ticket/1/ HTTP/1.1" 200 338
+INFO 2024-07-03 13:34:44,334 basehttp "GET /api/faq/2/ HTTP/1.1" 200 41
+INFO 2024-07-03 13:34:44,334 basehttp "GET /api/faq/1/ HTTP/1.1" 200 41
+INFO 2024-07-03 13:36:12,408 basehttp "GET /api/faq/1/ HTTP/1.1" 200 41
+INFO 2024-07-03 13:36:12,418 basehttp "GET /api/display-ticket/1/ HTTP/1.1" 200 338
+INFO 2024-07-03 13:36:12,420 basehttp "GET /api/faq/2/ HTTP/1.1" 200 41
+INFO 2024-07-03 13:36:12,422 basehttp "GET /api/display-ticket/1/ HTTP/1.1" 200 338
+INFO 2024-07-03 13:36:12,422 basehttp "GET /api/faq/2/ HTTP/1.1" 200 41
+INFO 2024-07-03 13:36:12,423 basehttp "GET /api/faq/1/ HTTP/1.1" 200 41
+INFO 2024-07-03 13:39:02,669 basehttp "POST /api/token/refresh/ HTTP/1.1" 200 241
+INFO 2024-07-03 13:39:02,669 basehttp "POST /api/token/refresh/ HTTP/1.1" 200 241
+INFO 2024-07-03 13:39:02,691 basehttp "GET /api/faq/1/ HTTP/1.1" 200 41
+INFO 2024-07-03 13:39:02,694 basehttp "GET /api/faq/2/ HTTP/1.1" 200 41
+INFO 2024-07-03 13:39:02,696 basehttp "GET /api/display-ticket/1/ HTTP/1.1" 200 338
+INFO 2024-07-03 13:39:02,701 basehttp "GET /api/faq/1/ HTTP/1.1" 200 41
+INFO 2024-07-03 13:39:02,702 basehttp "GET /api/faq/2/ HTTP/1.1" 200 41
+INFO 2024-07-03 13:39:02,703 basehttp "GET /api/display-ticket/1/ HTTP/1.1" 200 338
+INFO 2024-07-03 13:40:26,688 basehttp "GET /api/faq/1/ HTTP/1.1" 200 41
+INFO 2024-07-03 13:40:26,691 basehttp "GET /api/faq/2/ HTTP/1.1" 200 41
+INFO 2024-07-03 13:40:26,692 basehttp "GET /api/display-ticket/1/ HTTP/1.1" 200 338
+INFO 2024-07-03 13:42:54,455 basehttp "GET /api/faq/1/ HTTP/1.1" 200 41
+INFO 2024-07-03 13:42:54,458 basehttp "GET /api/faq/2/ HTTP/1.1" 200 41
+INFO 2024-07-03 13:42:54,458 basehttp "GET /api/display-ticket/1/ HTTP/1.1" 200 338
+WARNING 2024-07-03 13:53:03,529 log Unauthorized: /api/display-ticket/1/
+WARNING 2024-07-03 13:53:03,532 basehttp "GET /api/display-ticket/1/ HTTP/1.1" 401 183
+WARNING 2024-07-03 13:53:03,536 log Unauthorized: /api/faq/1/
+WARNING 2024-07-03 13:53:03,539 log Unauthorized: /api/faq/2/
+WARNING 2024-07-03 13:53:03,541 basehttp "GET /api/faq/1/ HTTP/1.1" 401 183
+WARNING 2024-07-03 13:53:03,542 basehttp "GET /api/faq/2/ HTTP/1.1" 401 183
+INFO 2024-07-03 13:53:03,542 basehttp "POST /api/token/refresh/ HTTP/1.1" 200 241
+INFO 2024-07-03 13:53:03,547 basehttp "POST /api/token/refresh/ HTTP/1.1" 200 241
+INFO 2024-07-03 13:53:03,550 basehttp "POST /api/token/refresh/ HTTP/1.1" 200 241
+INFO 2024-07-03 13:53:03,555 basehttp "GET /api/faq/1/ HTTP/1.1" 200 41
+INFO 2024-07-03 13:53:03,558 basehttp "GET /api/display-ticket/1/ HTTP/1.1" 200 338
+INFO 2024-07-03 13:53:03,559 basehttp "GET /api/faq/2/ HTTP/1.1" 200 41
+INFO 2024-07-03 13:53:34,628 basehttp "GET /api/faq/2/ HTTP/1.1" 200 41
+INFO 2024-07-03 13:53:34,629 basehttp "GET /api/faq/1/ HTTP/1.1" 200 41
+INFO 2024-07-03 13:53:34,634 basehttp "GET /api/display-ticket/1/ HTTP/1.1" 200 338
+INFO 2024-07-03 13:53:34,951 autoreload /Users/yannischappetjuan/Desktop/Happy_Nation/HPN ticket/web_page/backend/api/migrations/0002_hash.py changed, reloading.
+INFO 2024-07-03 13:53:35,331 autoreload Watching for file changes with StatReloader
+INFO 2024-07-03 14:30:48,246 autoreload Watching for file changes with StatReloader
+INFO 2024-07-03 14:30:51,189 basehttp "POST /api/token/refresh/ HTTP/1.1" 200 241
+INFO 2024-07-03 14:30:51,189 basehttp "POST /api/token/refresh/ HTTP/1.1" 200 241
+INFO 2024-07-03 14:30:51,211 basehttp "GET /api/faq/2/ HTTP/1.1" 200 41
+INFO 2024-07-03 14:30:51,211 basehttp "GET /api/faq/1/ HTTP/1.1" 200 41
+INFO 2024-07-03 14:30:51,215 basehttp "GET /api/display-ticket/1/ HTTP/1.1" 200 338
+INFO 2024-07-03 14:30:51,216 basehttp "GET /api/faq/2/ HTTP/1.1" 200 41
+INFO 2024-07-03 14:30:51,216 basehttp "GET /api/faq/1/ HTTP/1.1" 200 41
+INFO 2024-07-03 14:30:51,219 basehttp "GET /api/display-ticket/1/ HTTP/1.1" 200 338
+INFO 2024-07-03 14:30:51,222 basehttp "GET /media/tickets_front/1.png HTTP/1.1" 304 0
+INFO 2024-07-03 14:30:51,223 basehttp "GET /media/tickets_back/1.png HTTP/1.1" 304 0
+INFO 2024-07-03 14:31:22,091 basehttp "GET /api/faq/1/ HTTP/1.1" 200 41
+INFO 2024-07-03 14:31:22,092 basehttp "GET /api/display-ticket/1/ HTTP/1.1" 200 338
+INFO 2024-07-03 14:31:22,098 basehttp "GET /api/faq/2/ HTTP/1.1" 200 41
+INFO 2024-07-03 14:31:22,098 basehttp "GET /api/faq/1/ HTTP/1.1" 200 41
+INFO 2024-07-03 14:31:22,100 basehttp "GET /api/display-ticket/1/ HTTP/1.1" 200 338
+INFO 2024-07-03 14:31:22,101 basehttp "GET /api/faq/2/ HTTP/1.1" 200 41
+INFO 2024-07-03 14:32:49,308 basehttp "GET /api/faq/1/ HTTP/1.1" 200 41
+INFO 2024-07-03 14:32:49,310 basehttp "GET /api/faq/2/ HTTP/1.1" 200 41
+INFO 2024-07-03 14:32:49,318 basehttp "GET /api/display-ticket/1/ HTTP/1.1" 200 338
+INFO 2024-07-03 14:32:49,322 basehttp "GET /api/display-ticket/1/ HTTP/1.1" 200 338
+INFO 2024-07-03 14:32:49,323 basehttp "GET /api/faq/1/ HTTP/1.1" 200 41
+INFO 2024-07-03 14:32:49,324 basehttp "GET /api/faq/2/ HTTP/1.1" 200 41
+INFO 2024-07-03 14:33:38,100 basehttp "GET /api/faq/2/ HTTP/1.1" 200 41
+INFO 2024-07-03 14:33:38,102 basehttp "GET /api/faq/1/ HTTP/1.1" 200 41
+INFO 2024-07-03 14:33:38,112 basehttp "GET /api/faq/2/ HTTP/1.1" 200 41
+INFO 2024-07-03 14:33:38,115 basehttp "GET /api/display-ticket/1/ HTTP/1.1" 200 338
+INFO 2024-07-03 14:33:38,116 basehttp "GET /api/faq/1/ HTTP/1.1" 200 41
+INFO 2024-07-03 14:33:38,117 basehttp "GET /api/display-ticket/1/ HTTP/1.1" 200 338
+INFO 2024-07-03 14:34:00,311 basehttp "GET /api/display-ticket/1/ HTTP/1.1" 200 338
+INFO 2024-07-03 14:34:00,314 basehttp "GET /api/faq/2/ HTTP/1.1" 200 41
+INFO 2024-07-03 14:34:00,320 basehttp "GET /api/faq/1/ HTTP/1.1" 200 41
+INFO 2024-07-03 14:34:00,321 basehttp "GET /api/faq/2/ HTTP/1.1" 200 41
+INFO 2024-07-03 14:34:00,323 basehttp "GET /api/display-ticket/1/ HTTP/1.1" 200 338
+INFO 2024-07-03 14:34:00,324 basehttp "GET /api/faq/1/ HTTP/1.1" 200 41
+INFO 2024-07-03 14:35:07,567 basehttp "GET /api/faq/1/ HTTP/1.1" 200 41
+INFO 2024-07-03 14:35:07,573 basehttp "GET /api/display-ticket/1/ HTTP/1.1" 200 338
+INFO 2024-07-03 14:35:07,575 basehttp "GET /api/faq/2/ HTTP/1.1" 200 41
+INFO 2024-07-03 14:35:07,575 basehttp "GET /api/faq/2/ HTTP/1.1" 200 41
+INFO 2024-07-03 14:35:07,576 basehttp "GET /api/display-ticket/1/ HTTP/1.1" 200 338
+INFO 2024-07-03 14:35:07,577 basehttp "GET /api/faq/1/ HTTP/1.1" 200 41
+WARNING 2024-07-03 14:48:55,829 log Unauthorized: /api/display-ticket/1/
+WARNING 2024-07-03 14:48:55,831 log Unauthorized: /api/faq/1/
+WARNING 2024-07-03 14:48:55,833 log Unauthorized: /api/faq/2/
+WARNING 2024-07-03 14:48:55,833 basehttp "GET /api/display-ticket/1/ HTTP/1.1" 401 183
+WARNING 2024-07-03 14:48:55,834 basehttp "GET /api/faq/1/ HTTP/1.1" 401 183
+WARNING 2024-07-03 14:48:55,834 basehttp "GET /api/faq/2/ HTTP/1.1" 401 183
+INFO 2024-07-03 14:48:55,844 basehttp "POST /api/token/refresh/ HTTP/1.1" 200 241
+INFO 2024-07-03 14:48:55,845 basehttp "POST /api/token/refresh/ HTTP/1.1" 200 241
+INFO 2024-07-03 14:48:55,845 basehttp "POST /api/token/refresh/ HTTP/1.1" 200 241
+INFO 2024-07-03 14:48:55,861 basehttp "GET /api/faq/2/ HTTP/1.1" 200 41
+INFO 2024-07-03 14:48:55,861 basehttp "GET /api/faq/1/ HTTP/1.1" 200 41
+INFO 2024-07-03 14:48:55,861 basehttp "GET /api/display-ticket/1/ HTTP/1.1" 200 338
+INFO 2024-07-03 14:57:56,930 basehttp "POST /api/token/refresh/ HTTP/1.1" 200 241
+INFO 2024-07-03 14:57:56,930 basehttp "POST /api/token/refresh/ HTTP/1.1" 200 241
+INFO 2024-07-03 14:57:56,953 basehttp "GET /api/faq/1/ HTTP/1.1" 200 41
+INFO 2024-07-03 14:57:56,958 basehttp "GET /api/display-ticket/1/ HTTP/1.1" 200 338
+INFO 2024-07-03 14:57:56,959 basehttp "GET /api/faq/2/ HTTP/1.1" 200 41
+INFO 2024-07-03 14:57:56,959 basehttp "GET /api/display-ticket/1/ HTTP/1.1" 200 338
+INFO 2024-07-03 14:57:56,962 basehttp "GET /api/faq/1/ HTTP/1.1" 200 41
+INFO 2024-07-03 14:57:56,964 basehttp "GET /api/faq/2/ HTTP/1.1" 200 41
+INFO 2024-07-03 14:59:13,061 basehttp "GET /api/faq/1/ HTTP/1.1" 200 41
+INFO 2024-07-03 14:59:13,063 basehttp "GET /api/faq/1/ HTTP/1.1" 200 41
+INFO 2024-07-03 14:59:13,065 basehttp "GET /api/faq/2/ HTTP/1.1" 200 41
+INFO 2024-07-03 14:59:13,070 basehttp "GET /api/display-ticket/1/ HTTP/1.1" 200 338
+INFO 2024-07-03 14:59:13,071 basehttp "GET /api/faq/2/ HTTP/1.1" 200 41
+INFO 2024-07-03 14:59:13,073 basehttp "GET /api/display-ticket/1/ HTTP/1.1" 200 338
+INFO 2024-07-03 15:00:13,403 basehttp "GET /api/faq/1/ HTTP/1.1" 200 41
+INFO 2024-07-03 15:00:13,405 basehttp "GET /api/faq/2/ HTTP/1.1" 200 41
+INFO 2024-07-03 15:00:13,412 basehttp "GET /api/display-ticket/1/ HTTP/1.1" 200 338
+INFO 2024-07-03 15:00:13,414 basehttp "GET /api/faq/1/ HTTP/1.1" 200 41
+INFO 2024-07-03 15:00:13,414 basehttp "GET /api/faq/2/ HTTP/1.1" 200 41
+INFO 2024-07-03 15:00:13,417 basehttp "GET /api/display-ticket/1/ HTTP/1.1" 200 338
+INFO 2024-07-03 15:02:56,392 basehttp "POST /api/token/refresh/ HTTP/1.1" 200 241
+INFO 2024-07-03 15:02:56,392 basehttp "POST /api/token/refresh/ HTTP/1.1" 200 241
+INFO 2024-07-03 15:02:56,433 basehttp "GET /api/faq/1/ HTTP/1.1" 200 41
+INFO 2024-07-03 15:02:56,435 basehttp "GET /api/faq/2/ HTTP/1.1" 200 41
+INFO 2024-07-03 15:02:56,436 basehttp "GET /api/display-ticket/1/ HTTP/1.1" 200 338
+INFO 2024-07-03 15:02:56,440 basehttp "GET /api/display-ticket/1/ HTTP/1.1" 200 338
+INFO 2024-07-03 15:02:56,440 basehttp "GET /api/faq/2/ HTTP/1.1" 200 41
+INFO 2024-07-03 15:02:56,442 basehttp "GET /api/faq/1/ HTTP/1.1" 200 41
+INFO 2024-07-04 07:13:57,020 autoreload /Users/yannischappetjuan/Desktop/Happy_Nation/HPN ticket/web_page/backend/backend/settings.py changed, reloading.
+INFO 2024-07-04 07:13:57,342 autoreload Watching for file changes with StatReloader
+INFO 2024-07-04 09:24:42,204 autoreload Watching for file changes with StatReloader
+INFO 2024-07-04 09:24:58,357 basehttp "GET /admin/ HTTP/1.1" 200 9064
+INFO 2024-07-04 09:24:58,384 basehttp "GET /static/admin/css/base.css HTTP/1.1" 304 0
+INFO 2024-07-04 09:24:58,385 basehttp "GET /static/admin/css/dark_mode.css HTTP/1.1" 304 0
+INFO 2024-07-04 09:24:58,386 basehttp "GET /static/admin/css/dashboard.css HTTP/1.1" 304 0
+INFO 2024-07-04 09:24:58,387 basehttp "GET /static/admin/js/theme.js HTTP/1.1" 304 0
+INFO 2024-07-04 09:24:58,387 basehttp "GET /static/admin/css/responsive.css HTTP/1.1" 304 0
+INFO 2024-07-04 09:24:58,387 basehttp "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 304 0
+INFO 2024-07-04 09:24:58,387 basehttp "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 304 0
+INFO 2024-07-04 09:24:58,417 basehttp "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 200 331
+INFO 2024-07-04 09:24:58,417 basehttp "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 200 380
+INFO 2024-07-04 09:25:01,175 basehttp "GET /admin/api/ticket/ HTTP/1.1" 200 18221
+INFO 2024-07-04 09:25:01,203 basehttp "GET /static/admin/css/changelists.css HTTP/1.1" 304 0
+INFO 2024-07-04 09:25:01,204 basehttp "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 304 0
+INFO 2024-07-04 09:25:01,206 basehttp "GET /static/admin/js/core.js HTTP/1.1" 304 0
+INFO 2024-07-04 09:25:01,207 basehttp "GET /static/admin/js/prepopulate.js HTTP/1.1" 304 0
+INFO 2024-07-04 09:25:01,207 basehttp "GET /static/admin/js/jquery.init.js HTTP/1.1" 304 0
+INFO 2024-07-04 09:25:01,207 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2024-07-04 09:25:01,208 basehttp "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 304 0
+INFO 2024-07-04 09:25:01,208 basehttp "GET /static/admin/js/urlify.js HTTP/1.1" 304 0
+INFO 2024-07-04 09:25:01,208 basehttp "GET /static/admin/js/actions.js HTTP/1.1" 304 0
+INFO 2024-07-04 09:25:01,208 basehttp "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 304 0
+INFO 2024-07-04 09:25:01,209 basehttp "GET /static/admin/js/filters.js HTTP/1.1" 200 978
+INFO 2024-07-04 09:25:01,222 basehttp "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 200 331
+INFO 2024-07-04 09:25:16,668 basehttp "GET /admin/api/ticket/1/change/ HTTP/1.1" 200 11793
+INFO 2024-07-04 09:25:16,694 basehttp "GET /static/admin/css/forms.css HTTP/1.1" 304 0
+INFO 2024-07-04 09:25:16,694 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2024-07-04 09:25:16,697 basehttp "GET /static/admin/js/prepopulate_init.js HTTP/1.1" 304 0
+INFO 2024-07-04 09:25:16,697 basehttp "GET /static/admin/js/change_form.js HTTP/1.1" 304 0
+INFO 2024-07-04 09:25:16,701 basehttp "GET /static/admin/css/widgets.css HTTP/1.1" 304 0
+INFO 2024-07-04 09:30:07,104 autoreload Watching for file changes with StatReloader
+INFO 2024-07-04 09:30:10,655 basehttp "GET /admin/api/ticket/1/change/ HTTP/1.1" 200 11872
+INFO 2024-07-04 09:30:10,702 basehttp - Broken pipe from ('127.0.0.1', 58434)
+INFO 2024-07-04 09:30:10,702 basehttp - Broken pipe from ('127.0.0.1', 58433)
+INFO 2024-07-04 09:30:10,703 basehttp - Broken pipe from ('127.0.0.1', 58432)
+INFO 2024-07-04 09:30:10,704 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+WARNING 2024-07-04 09:30:10,731 log Not Found: /favicon.ico
+WARNING 2024-07-04 09:30:10,731 basehttp "GET /favicon.ico HTTP/1.1" 404 2449
+INFO 2024-07-04 09:30:10,731 basehttp - Broken pipe from ('127.0.0.1', 58431)
+INFO 2024-07-04 09:30:32,269 autoreload /Users/yannischappetjuan/Desktop/Happy_Nation/HPN ticket/web_page/backend/api/migrations/0004_hash2.py changed, reloading.
+INFO 2024-07-04 09:30:32,558 autoreload Watching for file changes with StatReloader
+WARNING 2024-07-04 09:31:33,545 log Unauthorized: /api/token/
+WARNING 2024-07-04 09:31:33,546 basehttp "POST /api/token/ HTTP/1.1" 401 183
+INFO 2024-07-04 09:31:33,557 basehttp "POST /api/token/refresh/ HTTP/1.1" 200 241
+WARNING 2024-07-04 09:31:33,568 log Bad Request: /api/token/
+WARNING 2024-07-04 09:31:33,569 basehttp "POST /api/token/ HTTP/1.1" 400 50
+WARNING 2024-07-04 09:32:05,203 log Bad Request: /api/token/
+WARNING 2024-07-04 09:32:05,204 basehttp "POST /api/token/ HTTP/1.1" 400 50
+INFO 2024-07-04 09:32:55,058 autoreload /Users/yannischappetjuan/Desktop/Happy_Nation/HPN ticket/web_page/backend/api/serializers.py changed, reloading.
+INFO 2024-07-04 09:32:55,361 autoreload Watching for file changes with StatReloader
+INFO 2024-07-04 09:41:45,691 autoreload Watching for file changes with StatReloader
+INFO 2024-07-04 09:42:33,700 autoreload Watching for file changes with StatReloader
