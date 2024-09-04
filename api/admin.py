@@ -3,4 +3,3 @@ from .models import Layer, Ticket, FAQ
 
 admin.site.register(Layer)
 admin.site.register(Ticket)
-admin.site.register(FAQ)
