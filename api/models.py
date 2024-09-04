@@ -20,11 +20,6 @@ class Ticket(models.Model):
     def __str__(self):
         return f"Ticket {self.owner.username}"  
     
-class FAQ(models.Model):
-    question = models.CharField(max_length=255)
-    answer = models.TextField()
-    order = models.IntegerField(default=0)
-
 class Challenge(models.Model):
     address = models.CharField(max_length=42)
     challenge = models.CharField(max_length=64)
